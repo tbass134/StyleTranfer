@@ -1,0 +1,22 @@
+{
+    "Records": [
+        {
+            "keywords": "bob ross paintings landscapes",
+            "limit": 20,
+            "print_urls": true,
+            "image_directory":"styles"
+        },
+        {
+            "keywords": "landscapes",
+            "limit": 20,
+            "print_urls": true,
+            "image_directory":"content"
+        },
+        {
+            "keywords": "landscape photos",
+            "limit": 10,
+            "print_urls": true,
+            "image_directory":"test"
+        }
+    ]
+}
